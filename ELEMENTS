@@ -1,0 +1,122 @@
+<html>		Contains the whole document
+DOCUMENT METADATA
+<head>		Defines the document's header block
+<title>		Specifies the document's title
+<base>		Sets base URI to solve relative URIs
+<link>		Gives relational information for documents
+<meta>		Provides information for the document
+<style>		Contains presentational attributes
+SECTIONS
+<body>		Contains all renderable elements
+<article>		Contains distributable content
+<section>		Defines a section of the document
+<nav>		Defines a navigation section
+<aside>		Holds content only slightly related
+<h1>		Inserts a level 1 heading
+<h2>		Inserts a level 2 heading
+<h3>		Inserts a level 3 heading
+<h4>		Inserts a level 4 heading
+<h5>		Inserts a level 5 heading
+<h6>		Inserts a level 6 heading
+<hgroup>		Groups consecutive headings
+<header>		Contains the header of a section
+<footer>		Contains the footer of a section
+<address>		Provides contact information
+GROUPING CONTENT
+<p>		Inserts a paragraph
+<hr>		Draws a horizontal line or rule
+<pre>		Defines a block of preformatted text
+<blockquote>		Block level quotation
+<ol>		Inserts an ordered list
+<ul>		Inserts an unordered list
+<menu>		Inserts a toolbar menu
+<li>		Defines a list item
+<dl>		Inserts a definitions list
+<dt>		Inserts a term in a list
+<dd>		Provides descriptions in a list
+<figure>		Marks its content as a reference
+<figcaption>		Provides a caption for a figure
+<main>		Acts as a main container for elements
+<div>		Defines a block of content
+TEXT-LEVEL SEMANTICS
+<a>		Inserts links or bookmarks
+<em>		Indicates emphasis
+<strong>		Indicates strong emphasis
+<small>		Renders text in "small" font
+<s>		Content no longer accurate or relevant
+<cite>		Inserts a citation or reference
+<q>		Inserts an inline quotation
+<dfn>		Provides a definition for a term
+<abbr>		Explains abbreviations
+<ruby>		Inserts ruby annotated text
+<rt>		Provides a ruby annotation
+<rp>		Makes text to be ignored in ruby
+<data>		Provides a machine-readable version
+<time>		Represents a date and/or time
+<code>		Represents computer code
+<var>		Indicates an instance of a variable
+<samp>		Contains a program's sample output
+<kbd>		Represents text entered by users
+<sub>		Defines subscript text
+<sup>		Defines superscript text
+<i>		Renders italic text
+<b>		Text in bold style
+<u>		Represents non-textual annotations
+<mark>		Marks text in another document
+<bdi>		Isolates for bidirectional formatting
+<bdo>		Overrides the bidirectional algorithm
+<span>		Assings attributes to text (inline)
+<br>		Forces a line break
+<wbr>		Represents a line break opportunity
+EDITS
+<ins>		Indicates inserted text
+<del>		Indicates deleted text
+EMBEDDED CONTENT
+<picture>		Inserts a multi-source image
+<source>		Specifies alternative media resources
+<img>		Inserts an image
+<iframe>		Inserts a frame inside a document
+<embed>		Integrates external applications
+<object>		Runs external applications
+<param>		Sets a parameter for an object
+<video>		Inserts videos in the document
+<audio>		Inserts audio files in the document
+<track>		Provides text tracks for a video
+<map>		Defines a client-side image map
+<area>		Defines sectors for image maps
+TABULAR DATA
+<table>		Inserts a table
+<caption>		Provides a caption for a table
+<colgroup>		Groups columns in a table
+<col>		Sets attributes for a table's columns
+<tbody>		Defines the body of a table
+<thead>		Defines the header of a table
+<tfoot>		Defines the footer of a table
+<tr>		Inserts a row in a table
+<td>		Inserts a regular cell in a table
+<th>		Inserts a header cell in a table
+FORMS
+<form>		Inserts a form
+<label>		Sets a label for a control
+<input>		Displays an input control
+<button>		Creates a button control
+<select>		Creates a select control
+<datalist>		Provides suggestions for input fields
+<optgroup>		Groups options in a select control
+<option>		Inserts an option in a select control
+<textarea>		Creates a multiline text input
+<output>		Shows the output of a process
+<progress>		Shows a task's completion progress
+<meter>		Represents a measurement
+<fieldset>		Groups controls in a form
+<legend>		Assigns a caption for a fieldset
+INTERACTIVE ELEMENTS
+<details>		Provides collapsable information
+<summary>		Provides a summary for a details element
+<dialog>		Inserts a dialog box
+SCRIPTING
+<script>		Contains scripts
+<noscript>		Provides alternative content for scripts
+<template>		Defines a template for data to come
+<slot>		Placeholder for data in components
+<canvas>		Renders dynamic bitmap graphics
