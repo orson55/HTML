@@ -1,2 +1,2 @@
 # HTML
-HTML SKELETONS AND CODE
+HTML and skeletons
