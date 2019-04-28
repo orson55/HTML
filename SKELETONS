@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" /> //most commonly used characterset, features standard keys
+    <title>SnowFlakes</title> //title for the webpage not a header
+</head>
+
+<body>
+    <h1> Tree SnowFlakes</h1> 
+</body>
+
+</html>
